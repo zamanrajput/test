@@ -14,10 +14,7 @@
         {
             "name": "Academic Calendar",
             "list": [
-                {
-                    "name": "Apply Convocation",
-                    "url": "https://lms.uet.edu.pk/web?#view_type=form&model=obe.convocation&menu_id=1250"
-                },
+                
                 {
                     "name": "Offered Subjects",
                     "url": "https://lms.uet.edu.pk/web?#view_type=form&model=obe.offered_subject&action=376"
